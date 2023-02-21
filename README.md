@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan Dadi</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dadi-vardhan&label=Profile%20views&color=0e75b6&style=flat" alt="dadi-vardhan" /> </p>
-
+<!-- 
 - 🌱 I’m currently learning **Flask, AWS**
 -  💬 Ask me about **Machine Learning and Deep Learning**
-
+ -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
